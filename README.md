@@ -2,7 +2,7 @@
 
 Tourist place of OmniStudio datapacks. These datapacks can be easly imported into any of the OmniStudio enabled org. I will be adding more and more datapacks here, as i said, its tourist place of datapacks.
 
-##Rapid Lynk Board
+## Rapid Lynk Board
 https://www.rapidlynk.com/board/v/624e232197c5091811f3824b/624e232197c5091811f3824c
 
 ## DataPacks
